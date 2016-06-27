@@ -1,4 +1,5 @@
 require "addressable/uri"
+require 'securerandom'
 require "browser"
 require "geocoder"
 require "referer-parser"
